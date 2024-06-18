@@ -14,7 +14,11 @@ visually appealing and functions well across different devices and screen sizes.
 
 ### 🖥️ Desktop
 
+![Desktop](./github/desktop.png)
+
 ### 📱 Mobile
+
+![Mobile](./github/mobile.png)
 
 ## 🔗 Links
 
@@ -22,13 +26,37 @@ visually appealing and functions well across different devices and screen sizes.
 &nbsp;&nbsp;
 [![Repo](https://img.shields.io/badge/Repo-111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ipaulaa/qr-code-component)
 &nbsp;&nbsp;
-[![Live](https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://qr-code-component-ipaulaa.netlify.app)
+[![Live](https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://001-qr-code-component.netlify.app)
 
 ## 🛠️ Built with
 
+- Semantic HTML
+- CSS Variables
+- Flexbox
+- `reset.css`
+
 ## 👩🏻‍🎓 What I learned
 
+<dl>
+  <dt >Centering Elements:</dt>
+  <dd>
+    Flexbox is generally preferred for centering elements on a page, as CSS
+    Grid's place-items: center can sometimes lead to overflow issues when users
+    increase their font size.
+  </dd>
+  <dt>Importing Fonts and CSS:</dt>
+  <dd>
+    Directly importing fonts and CSS into HTML is generally not recommended.
+    It's considered best practice to use separate files (CSS for styles, font
+    files for fonts) and link them to your HTML. This improves maintainability,
+    organization, and performance.
+  </dd>
+</dl>
+
 ## 👍🏻 Useful resources
+
+- Modern [reset.css](https://elad2412.github.io/the-new-css-reset/)
+- [Frontend Mentor](https://frontendmentor.io)
 
 ## 💻 Author
 
@@ -37,5 +65,3 @@ visually appealing and functions well across different devices and screen sizes.
 [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-ff426e?style=for-the-badge&logoColor=white)](https://www.frontendmentor.io/profile/ipaulaa)
 &nbsp;&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1157030115348328510)
-
-## 👏🏻 Acknowledgments
