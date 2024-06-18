@@ -22,7 +22,7 @@ visually appealing and functions well across different devices and screen sizes.
 
 ## 🔗 Links
 
-[![Solution](https://img.shields.io/badge/Solution-7534ed?style=for-the-badge&logoColor=white)](https://frontendmentor.io)
+[![Solution](https://img.shields.io/badge/Solution-7534ed?style=for-the-badge&logoColor=white)](https://www.frontendmentor.io/solutions/qr-code-component---css-variables-and-flexbox-dA0Nfw5SEB)
 &nbsp;&nbsp;
 [![Repo](https://img.shields.io/badge/Repo-111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ipaulaa/qr-code-component)
 &nbsp;&nbsp;
