@@ -6,5 +6,16 @@
 }
 
 body {
+  background: var(--slate-300);
   font-family: "Outfit", sans-serif;
 }
+
+.page-wrapper {
+  min-width: 100vw;
+  min-height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
