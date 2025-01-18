@@ -7,6 +7,10 @@ coding skills by building realistic projects.
 
 Your challenge is to build out this QR code component and get it looking as close to the design as possible.
 
+### 💡 Ideas to test yourself
+
+- Focus on writing semantic HTML and using the correct elements based on the content.
+
 ## 📸 Screenshots
 
 ### 📱 Mobile
@@ -26,6 +30,7 @@ Your challenge is to build out this QR code component and get it looking as clos
 ## 👷🏻‍♀️ Built with
 
 - Semantic HTML
+- [New Reset CSS](https://elad2412.github.io/the-new-css-reset)
 - CSS Variables
 - Flexbox
 
