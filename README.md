@@ -21,7 +21,7 @@ Your challenge is to build out this QR code component and get it looking as clos
 
 [![](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ipaulaa/qr-code-component)&nbsp;&nbsp;
 [![](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)](https://ipaulaa.github.io/qr-code-component)&nbsp;&nbsp;
-[![](https://img.shields.io/badge/Frontend%20Mentor-3F54A3.svg?style=for-the-badge&logo=Frontend-Mentor&logoColor=white)]()
+[![](https://img.shields.io/badge/Frontend%20Mentor-3F54A3.svg?style=for-the-badge&logo=Frontend-Mentor&logoColor=white)](https://www.frontendmentor.io/solutions/qr-code-component-w-flexbox-and-css-variables-hggi0ML5-i)
 
 ## 👷🏻‍♀️ Built with
 
