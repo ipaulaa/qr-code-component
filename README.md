@@ -11,7 +11,7 @@ Your challenge is to build out this QR code component and get it looking as clos
 
 - Focus on writing semantic HTML and using the correct elements based on the content.
 
-## 📸 Screenshot
+## 📸 Screenshots
 
 ![view](readme-images/view.png)
 
